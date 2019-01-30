@@ -1,4 +1,4 @@
-package moe.feng.common.stepperview.demo;
+package moe.feng.common.stepperview.awesome;
 
 import android.app.AlertDialog;
 import android.content.DialogInterface;
@@ -14,8 +14,8 @@ import android.os.Bundle;
 import android.support.v7.widget.Toolbar;
 import android.view.MenuItem;
 import moe.feng.alipay.zerosdk.AlipayZeroSdk;
-import moe.feng.common.stepperview.demo.fragment.VerticalStepperAdapterDemoFragment;
-import moe.feng.common.stepperview.demo.fragment.VerticalStepperDemoFragment;
+import moe.feng.common.stepperview.awesome.fragment.VerticalStepperAdapterDemoFragment;
+import moe.feng.common.stepperview.awesome.fragment.VerticalStepperDemoFragment;
 
 public class MainActivity extends AppCompatActivity implements NavigationView.OnNavigationItemSelectedListener {
 

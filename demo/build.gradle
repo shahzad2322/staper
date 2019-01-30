@@ -9,7 +9,7 @@ android {
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode rootProject.ext.versionCode
         versionName rootProject.ext.versionName
-        applicationId "moe.feng.common.stepperview.demo"
+        applicationId "moe.feng.common.stepperview.awesome"
 
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
     }
