@@ -12,8 +12,6 @@ import android.util.AttributeSet;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.FrameLayout;
-
-import moe.feng.common.stepperview.R;
 import moe.feng.common.stepperviews.internal.VerticalSpaceItemDecoration;
 
 public class VerticalStepperView extends FrameLayout implements IStepperView {

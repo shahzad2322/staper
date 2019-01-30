@@ -22,7 +22,7 @@ import android.widget.TextView;
 import java.lang.annotation.Retention;
 import java.lang.annotation.RetentionPolicy;
 
-import moe.feng.common.stepperview.R;
+
 
 public class VerticalStepperItemView extends FrameLayout {
 
