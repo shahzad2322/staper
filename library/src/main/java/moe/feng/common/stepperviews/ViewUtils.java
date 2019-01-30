@@ -1,4 +1,4 @@
-package moe.feng.common.stepperview;
+package moe.feng.common.stepperviews;
 
 import android.animation.ObjectAnimator;
 import android.animation.TypeEvaluator;

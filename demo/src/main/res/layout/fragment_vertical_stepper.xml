@@ -11,7 +11,7 @@
 			android:layout_height="match_parent"
 			android:animateLayoutChanges="true">
 
-		<moe.feng.common.stepperview.VerticalStepperItemView
+		<moe.feng.common.stepperviews.VerticalStepperItemView
 				android:id="@+id/stepper_0"
 				android:layout_width="match_parent"
 				android:layout_height="wrap_content"
@@ -58,9 +58,9 @@
 
 			</LinearLayout>
 
-		</moe.feng.common.stepperview.VerticalStepperItemView>
+		</moe.feng.common.stepperviews.VerticalStepperItemView>
 
-		<moe.feng.common.stepperview.VerticalStepperItemView
+		<moe.feng.common.stepperviews.VerticalStepperItemView
 				android:id="@+id/stepper_1"
 				android:layout_width="match_parent"
 				android:layout_height="wrap_content"
@@ -115,9 +115,9 @@
 
 			</LinearLayout>
 
-		</moe.feng.common.stepperview.VerticalStepperItemView>
+		</moe.feng.common.stepperviews.VerticalStepperItemView>
 
-		<moe.feng.common.stepperview.VerticalStepperItemView
+		<moe.feng.common.stepperviews.VerticalStepperItemView
 				android:id="@+id/stepper_2"
 				android:layout_width="match_parent"
 				android:layout_height="wrap_content"
@@ -164,7 +164,7 @@
 
 			</LinearLayout>
 
-		</moe.feng.common.stepperview.VerticalStepperItemView>
+		</moe.feng.common.stepperviews.VerticalStepperItemView>
 
 		<Button
 				android:id="@+id/btn_change_point_color"

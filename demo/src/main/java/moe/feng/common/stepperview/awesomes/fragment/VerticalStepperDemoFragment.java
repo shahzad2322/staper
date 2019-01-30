@@ -1,4 +1,4 @@
-package moe.feng.common.stepperview.awesome.fragment;
+package moe.feng.common.stepperview.awesomes.fragment;
 
 import android.os.Bundle;
 import android.support.design.widget.Snackbar;
@@ -7,8 +7,8 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Button;
-import moe.feng.common.stepperview.VerticalStepperItemView;
-import moe.feng.common.stepperview.awesome.R;
+import moe.feng.common.stepperviews.VerticalStepperItemView;
+import moe.feng.common.stepperview.awesomes.R;
 
 public class VerticalStepperDemoFragment extends Fragment {
 

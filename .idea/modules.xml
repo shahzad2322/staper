@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/MaterialStepperView-master.iml" filepath="$PROJECT_DIR$/MaterialStepperView-master.iml" />
       <module fileurl="file://$PROJECT_DIR$/demo/demo.iml" filepath="$PROJECT_DIR$/demo/demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/demo-kotlin/demo-kotlin.iml" filepath="$PROJECT_DIR$/demo-kotlin/demo-kotlin.iml" />
       <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
-      <module fileurl="file://$PROJECT_DIR$/staper.iml" filepath="$PROJECT_DIR$/staper.iml" />
     </modules>
   </component>
 </project>

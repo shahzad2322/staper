@@ -1,4 +1,4 @@
-package moe.feng.common.stepperview.awesome.fragment;
+package moe.feng.common.stepperview.awesomes.fragment;
 
 import android.content.Context;
 import android.os.Bundle;
@@ -12,10 +12,10 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Button;
 import android.widget.TextView;
-import moe.feng.common.stepperview.IStepperAdapter;
-import moe.feng.common.stepperview.VerticalStepperItemView;
-import moe.feng.common.stepperview.VerticalStepperView;
-import moe.feng.common.stepperview.awesome.R;
+import moe.feng.common.stepperviews.IStepperAdapter;
+import moe.feng.common.stepperviews.VerticalStepperItemView;
+import moe.feng.common.stepperviews.VerticalStepperView;
+import moe.feng.common.stepperview.awesomes.R;
 
 public class VerticalStepperAdapterDemoFragment extends Fragment implements IStepperAdapter {
 
